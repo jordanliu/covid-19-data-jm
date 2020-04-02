@@ -1,4 +1,4 @@
-# Coronavirus (COVID-19) Data in the Jamaica
+# Coronavirus (COVID-19) Data in Jamaica
 Source: https://www.moh.gov.jm/
 
 Data starts with information from April 1, 2020. 
@@ -6,7 +6,7 @@ Data starts with information from April 1, 2020.
 
 ### Daily Data Format
 
-Parish data can be found in the [jm-parishes.csv](jm-parishes.csv) file. ([Raw CSV file here.](https://github.com/jordanliu/covid-19-data-jm/blob/master/jm-parishes.csv))
+Parish data can be found in the [jm-parishes.csv](jm-parishes.csv) file. ([Raw CSV file here.](https://raw.githubusercontent.com/jordanliu/covid-19-data-jm/master/jm-parishes.csv))
 
 ```
 date,parish,cases
