@@ -15,16 +15,15 @@ date,parish,cases
 ```
 
 ## Methodology and Definitions
-* Confirmed Cases
+### Confirmed Cases
+* Confirmed cases are patients who test positive for the coronavirus. We consider a case confirmed when it is reported by a government agency.
 
-Confirmed cases are patients who test positive for the coronavirus. We consider a case confirmed when it is reported by a government agency.
-
-* Dates
-
-For each date, we show the cumulative number of confirmed cases as reported that day. Exception of April 1, 2020.
+### Dates
+* For each date, we show the cumulative number of confirmed cases as reported that day. Exception of April 1, 2020.
 
 ### Geographic Exceptions
 * Kingston and St Andrew are assigned to a single area called KSA
 
 
+---
 Any questions or contact? Create an [issue](https://github.com/jordanliu/covid-19-data-jm/issues).
