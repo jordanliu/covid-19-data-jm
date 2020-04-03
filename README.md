@@ -22,7 +22,25 @@ date,parish,cases
 * For each date, we show the cumulative number of confirmed cases as reported that day. Exception of April 1, 2020.
 
 ### Geographic Exceptions
-* Kingston and St Andrew are assigned to a single area called KSA
+* Kingston and St Andrew are assigned to a single area called KSA and assigned to FIPS JM08.
+
+### FIPS
+
+| Parish        | FIPS           |
+| ------------- |:-------------:|
+| Clarendon     | JM01 | 
+| Hanover       | JM02 | 
+| Manchester    | JM04 | 
+| Portland      | JM07 | 
+| KSA           | JM08 | 
+| St Ann        | JM09 | 
+| St Catherine  | JM10 | 
+| St Elizabeth  | JM11 | 
+| St James      | JM12 | 
+| St Mary       | JM13 | 
+| St Thomas     | JM14 | 
+| Trelawny      | JM15 | 
+| Westmoreland  | JM16 | 
 
 
 ---
