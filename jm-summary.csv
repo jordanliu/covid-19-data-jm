@@ -1,14 +1,14 @@
-parish,cases
-Clarendon,10
-Hanover,0
-KSA,12
-Manchester,4
-Portland,2
-St Ann,5
-St Catherine,4
-St Elizabeth,3
-St Mary,1
-St James,4
-St Thomas,0
-Westmoreland,2
-Trelawny,0
+parish,cases,recovered,deaths
+Clarendon,10,0,0
+Hanover,0,0,0
+KSA,12,0,1
+Manchester,4,0,1
+Portland,2,0,0
+St Ann,5,1,0
+St Catherine,4,0,0
+St Elizabeth,3,0,0
+St Mary,1,0,0
+St James,4,1,0
+St Thomas,0,0,0
+Westmoreland,2,0,0
+Trelawny,0,0,0
