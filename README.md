@@ -1,6 +1,12 @@
 # Coronavirus (COVID-19) Data in Jamaica
 Source: https://www.moh.gov.jm/
 
+---
+# Deprecated
+
+There has been an official release of an accurate tracker and breakdown of COVID-19 in Jamaica by the MOH making this repo redundant. Jamaica COVID-19's offical website: https://jamcovid19.moh.gov.jm/
+
+---
 Data starts with information from April 1, 2020. 
 
 
